@@ -20,3 +20,9 @@ N'hésitez pas à explorer le code déjà présent dans l'application.
 Le but de cet exercice est de réaliser la gestion d'un panier de commande basé sur la liste des matériels que vous aurez réaliser ci dessus.
 
 L'exercice est libre et la gestion du panier devra uniquement être stocké en mémoire dans un objet.
+
+
+## Chez Ubilab nous aimons :
+Le code simple lisible et élégant le code maintenable, le code testable.
+
+Ayez toujours à l'esprit que c'est principalement ces critères que nous jugerons.
