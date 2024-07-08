@@ -1,0 +1,1653 @@
+{
+  "medicalSupplies": [
+    {
+      "id": 184,
+      "name": "Barricor ",
+      "description": "test",
+      "category": {
+        "id": 11,
+        "name": "Tubes",
+        "color": "TurquoiseGreen"
+      },
+      "imageUrl": "https://cellar-c2.services.clever-cloud.com/ubi-upload/553/43541/553/43541/medicalSupply/56365_1657115510.png",
+      "availability": "Available",
+      "availableTo": [
+        {
+          "id": 8020,
+          "name": "biologiste"
+        },
+        {
+          "id": 15781,
+          "name": "informaticien"
+        },
+        {
+          "id": 8025,
+          "name": "pharmacie"
+        },
+        {
+          "id": 17289,
+          "name": "pharmacien"
+        },
+        {
+          "id": 8021,
+          "name": "qualiticien"
+        },
+        {
+          "id": 10036,
+          "name": "client"
+        },
+        {
+          "id": 8028,
+          "name": "etablissement"
+        },
+        {
+          "id": 16158,
+          "name": "aide_laboratoire"
+        },
+        {
+          "id": 8024,
+          "name": "medecin"
+        },
+        {
+          "id": 8023,
+          "name": "secretaire"
+        },
+        {
+          "id": 8016,
+          "name": "admin"
+        },
+        {
+          "id": 16912,
+          "name": "laboratoire"
+        },
+        {
+          "id": 8017,
+          "name": "ide"
+        },
+        {
+          "id": 8018,
+          "name": "sage_femme"
+        },
+        {
+          "id": 8019,
+          "name": "ehpad"
+        },
+        {
+          "id": 17666,
+          "name": "gynecologue"
+        },
+        {
+          "id": 16535,
+          "name": "kine"
+        },
+        {
+          "id": 8026,
+          "name": "coursier"
+        },
+        {
+          "id": 8027,
+          "name": "preleveur_interne"
+        },
+        {
+          "id": 15404,
+          "name": "centre_covid"
+        },
+        {
+          "id": 8022,
+          "name": "technicien"
+        }
+      ],
+      "atTheDisposalOf": {
+        "profiles": [
+          {
+            "id": 8020,
+            "name": "biologiste"
+          },
+          {
+            "id": 15781,
+            "name": "informaticien"
+          },
+          {
+            "id": 8025,
+            "name": "pharmacie"
+          },
+          {
+            "id": 17289,
+            "name": "pharmacien"
+          },
+          {
+            "id": 8021,
+            "name": "qualiticien"
+          },
+          {
+            "id": 10036,
+            "name": "client"
+          },
+          {
+            "id": 8028,
+            "name": "etablissement"
+          },
+          {
+            "id": 16158,
+            "name": "aide_laboratoire"
+          },
+          {
+            "id": 8024,
+            "name": "medecin"
+          },
+          {
+            "id": 8023,
+            "name": "secretaire"
+          },
+          {
+            "id": 8016,
+            "name": "admin"
+          },
+          {
+            "id": 16912,
+            "name": "laboratoire"
+          },
+          {
+            "id": 8017,
+            "name": "ide"
+          },
+          {
+            "id": 8018,
+            "name": "sage_femme"
+          },
+          {
+            "id": 8019,
+            "name": "ehpad"
+          },
+          {
+            "id": 17666,
+            "name": "gynecologue"
+          },
+          {
+            "id": 16535,
+            "name": "kine"
+          },
+          {
+            "id": 8026,
+            "name": "coursier"
+          },
+          {
+            "id": 8027,
+            "name": "preleveur_interne"
+          },
+          {
+            "id": 15404,
+            "name": "centre_covid"
+          },
+          {
+            "id": 8022,
+            "name": "technicien"
+          }
+        ],
+        "groups": [],
+        "offices": []
+      },
+      "position": 1,
+      "visit": {
+        "pierceable": true,
+        "storageTemperature": true,
+        "allowsResettingSampleCollectionDateTime": false
+      }
+    },
+    {
+      "id": 967,
+      "name": "Tube gris",
+      "description": "Test 30/04/2024 09h55",
+      "category": {
+        "id": 122,
+        "name": "test",
+        "color": "GrenadinePink"
+      },
+      "imageUrl": "https://cellar-c2.services.clever-cloud.com/uploads-service-common/553/165168/553/165168/medicalSupply//22309_1714463737.png",
+      "availability": "Available",
+      "availableTo": [
+        {
+          "id": 8020,
+          "name": "biologiste"
+        },
+        {
+          "id": 15781,
+          "name": "informaticien"
+        },
+        {
+          "id": 8025,
+          "name": "pharmacie"
+        },
+        {
+          "id": 17289,
+          "name": "pharmacien"
+        },
+        {
+          "id": 8021,
+          "name": "qualiticien"
+        },
+        {
+          "id": 10036,
+          "name": "client"
+        },
+        {
+          "id": 8028,
+          "name": "etablissement"
+        },
+        {
+          "id": 16158,
+          "name": "aide_laboratoire"
+        },
+        {
+          "id": 8024,
+          "name": "medecin"
+        },
+        {
+          "id": 8023,
+          "name": "secretaire"
+        },
+        {
+          "id": 8016,
+          "name": "admin"
+        },
+        {
+          "id": 16912,
+          "name": "laboratoire"
+        },
+        {
+          "id": 8017,
+          "name": "ide"
+        },
+        {
+          "id": 8018,
+          "name": "sage_femme"
+        },
+        {
+          "id": 8019,
+          "name": "ehpad"
+        },
+        {
+          "id": 17666,
+          "name": "gynecologue"
+        },
+        {
+          "id": 16535,
+          "name": "kine"
+        },
+        {
+          "id": 8026,
+          "name": "coursier"
+        },
+        {
+          "id": 8027,
+          "name": "preleveur_interne"
+        },
+        {
+          "id": 15404,
+          "name": "centre_covid"
+        },
+        {
+          "id": 8022,
+          "name": "technicien"
+        }
+      ],
+      "atTheDisposalOf": {
+        "profiles": [
+          {
+            "id": 8020,
+            "name": "biologiste"
+          },
+          {
+            "id": 15781,
+            "name": "informaticien"
+          },
+          {
+            "id": 8025,
+            "name": "pharmacie"
+          },
+          {
+            "id": 17289,
+            "name": "pharmacien"
+          },
+          {
+            "id": 8021,
+            "name": "qualiticien"
+          },
+          {
+            "id": 10036,
+            "name": "client"
+          },
+          {
+            "id": 8028,
+            "name": "etablissement"
+          },
+          {
+            "id": 16158,
+            "name": "aide_laboratoire"
+          },
+          {
+            "id": 8024,
+            "name": "medecin"
+          },
+          {
+            "id": 8023,
+            "name": "secretaire"
+          },
+          {
+            "id": 8016,
+            "name": "admin"
+          },
+          {
+            "id": 16912,
+            "name": "laboratoire"
+          },
+          {
+            "id": 8017,
+            "name": "ide"
+          },
+          {
+            "id": 8018,
+            "name": "sage_femme"
+          },
+          {
+            "id": 8019,
+            "name": "ehpad"
+          },
+          {
+            "id": 17666,
+            "name": "gynecologue"
+          },
+          {
+            "id": 16535,
+            "name": "kine"
+          },
+          {
+            "id": 8026,
+            "name": "coursier"
+          },
+          {
+            "id": 8027,
+            "name": "preleveur_interne"
+          },
+          {
+            "id": 15404,
+            "name": "centre_covid"
+          },
+          {
+            "id": 8022,
+            "name": "technicien"
+          }
+        ],
+        "groups": [],
+        "offices": []
+      },
+      "position": 2,
+      "visit": {
+        "pierceable": false,
+        "storageTemperature": false,
+        "allowsResettingSampleCollectionDateTime": false
+      }
+    },
+    {
+      "id": 186,
+      "name": "Flacon urine avec percuteur",
+      "description": "",
+      "category": {
+        "id": 13,
+        "name": "Contenants",
+        "color": "Peach"
+      },
+      "imageUrl": "https://cellar-c2.services.clever-cloud.com/ubi-upload/553/43541/553/43541/medicalSupply/33413_1657115540.png",
+      "availability": "Available",
+      "availableTo": [
+        {
+          "id": 8020,
+          "name": "biologiste"
+        },
+        {
+          "id": 15781,
+          "name": "informaticien"
+        },
+        {
+          "id": 8025,
+          "name": "pharmacie"
+        },
+        {
+          "id": 17289,
+          "name": "pharmacien"
+        },
+        {
+          "id": 8021,
+          "name": "qualiticien"
+        },
+        {
+          "id": 10036,
+          "name": "client"
+        },
+        {
+          "id": 8028,
+          "name": "etablissement"
+        },
+        {
+          "id": 8024,
+          "name": "medecin"
+        },
+        {
+          "id": 8023,
+          "name": "secretaire"
+        },
+        {
+          "id": 8016,
+          "name": "admin"
+        },
+        {
+          "id": 16912,
+          "name": "laboratoire"
+        },
+        {
+          "id": 8030,
+          "name": "pro"
+        },
+        {
+          "id": 8017,
+          "name": "ide"
+        },
+        {
+          "id": 8018,
+          "name": "sage_femme"
+        },
+        {
+          "id": 8019,
+          "name": "ehpad"
+        },
+        {
+          "id": 17666,
+          "name": "gynecologue"
+        },
+        {
+          "id": 16535,
+          "name": "kine"
+        },
+        {
+          "id": 8029,
+          "name": "patient"
+        },
+        {
+          "id": 16158,
+          "name": "aide_laboratoire"
+        },
+        {
+          "id": 8026,
+          "name": "coursier"
+        },
+        {
+          "id": 8027,
+          "name": "preleveur_interne"
+        },
+        {
+          "id": 15404,
+          "name": "centre_covid"
+        },
+        {
+          "id": 8022,
+          "name": "technicien"
+        }
+      ],
+      "atTheDisposalOf": {
+        "profiles": [
+          {
+            "id": 8020,
+            "name": "biologiste"
+          },
+          {
+            "id": 15781,
+            "name": "informaticien"
+          },
+          {
+            "id": 8025,
+            "name": "pharmacie"
+          },
+          {
+            "id": 17289,
+            "name": "pharmacien"
+          },
+          {
+            "id": 8021,
+            "name": "qualiticien"
+          },
+          {
+            "id": 10036,
+            "name": "client"
+          },
+          {
+            "id": 8028,
+            "name": "etablissement"
+          },
+          {
+            "id": 8024,
+            "name": "medecin"
+          },
+          {
+            "id": 8023,
+            "name": "secretaire"
+          },
+          {
+            "id": 8016,
+            "name": "admin"
+          },
+          {
+            "id": 16912,
+            "name": "laboratoire"
+          },
+          {
+            "id": 8030,
+            "name": "pro"
+          },
+          {
+            "id": 8017,
+            "name": "ide"
+          },
+          {
+            "id": 8018,
+            "name": "sage_femme"
+          },
+          {
+            "id": 8019,
+            "name": "ehpad"
+          },
+          {
+            "id": 17666,
+            "name": "gynecologue"
+          },
+          {
+            "id": 16535,
+            "name": "kine"
+          },
+          {
+            "id": 8029,
+            "name": "patient"
+          },
+          {
+            "id": 16158,
+            "name": "aide_laboratoire"
+          },
+          {
+            "id": 8026,
+            "name": "coursier"
+          },
+          {
+            "id": 8027,
+            "name": "preleveur_interne"
+          },
+          {
+            "id": 15404,
+            "name": "centre_covid"
+          },
+          {
+            "id": 8022,
+            "name": "technicien"
+          }
+        ],
+        "groups": [],
+        "offices": []
+      },
+      "position": 3,
+      "visit": {
+        "pierceable": false,
+        "storageTemperature": false,
+        "allowsResettingSampleCollectionDateTime": false
+      }
+    },
+    {
+      "id": 185,
+      "name": "Stylet",
+      "description": "",
+      "category": {
+        "id": 11,
+        "name": "Tubes",
+        "color": "TurquoiseGreen"
+      },
+      "imageUrl": "https://cellar-c2.services.clever-cloud.com/ubi-upload/553/43541/553/43541/medicalSupply/95760_1657115523.png",
+      "availability": "Available",
+      "availableTo": [
+        {
+          "id": 8020,
+          "name": "biologiste"
+        },
+        {
+          "id": 15781,
+          "name": "informaticien"
+        },
+        {
+          "id": 8025,
+          "name": "pharmacie"
+        },
+        {
+          "id": 17289,
+          "name": "pharmacien"
+        },
+        {
+          "id": 8021,
+          "name": "qualiticien"
+        },
+        {
+          "id": 10036,
+          "name": "client"
+        },
+        {
+          "id": 8028,
+          "name": "etablissement"
+        },
+        {
+          "id": 8024,
+          "name": "medecin"
+        },
+        {
+          "id": 8023,
+          "name": "secretaire"
+        },
+        {
+          "id": 8016,
+          "name": "admin"
+        },
+        {
+          "id": 16912,
+          "name": "laboratoire"
+        },
+        {
+          "id": 8030,
+          "name": "pro"
+        },
+        {
+          "id": 8017,
+          "name": "ide"
+        },
+        {
+          "id": 8018,
+          "name": "sage_femme"
+        },
+        {
+          "id": 8019,
+          "name": "ehpad"
+        },
+        {
+          "id": 17666,
+          "name": "gynecologue"
+        },
+        {
+          "id": 16535,
+          "name": "kine"
+        },
+        {
+          "id": 8029,
+          "name": "patient"
+        },
+        {
+          "id": 16158,
+          "name": "aide_laboratoire"
+        },
+        {
+          "id": 8026,
+          "name": "coursier"
+        },
+        {
+          "id": 8027,
+          "name": "preleveur_interne"
+        },
+        {
+          "id": 15404,
+          "name": "centre_covid"
+        },
+        {
+          "id": 8022,
+          "name": "technicien"
+        }
+      ],
+      "atTheDisposalOf": {
+        "profiles": [
+          {
+            "id": 8020,
+            "name": "biologiste"
+          },
+          {
+            "id": 15781,
+            "name": "informaticien"
+          },
+          {
+            "id": 8025,
+            "name": "pharmacie"
+          },
+          {
+            "id": 17289,
+            "name": "pharmacien"
+          },
+          {
+            "id": 8021,
+            "name": "qualiticien"
+          },
+          {
+            "id": 10036,
+            "name": "client"
+          },
+          {
+            "id": 8028,
+            "name": "etablissement"
+          },
+          {
+            "id": 8024,
+            "name": "medecin"
+          },
+          {
+            "id": 8023,
+            "name": "secretaire"
+          },
+          {
+            "id": 8016,
+            "name": "admin"
+          },
+          {
+            "id": 16912,
+            "name": "laboratoire"
+          },
+          {
+            "id": 8030,
+            "name": "pro"
+          },
+          {
+            "id": 8017,
+            "name": "ide"
+          },
+          {
+            "id": 8018,
+            "name": "sage_femme"
+          },
+          {
+            "id": 8019,
+            "name": "ehpad"
+          },
+          {
+            "id": 17666,
+            "name": "gynecologue"
+          },
+          {
+            "id": 16535,
+            "name": "kine"
+          },
+          {
+            "id": 8029,
+            "name": "patient"
+          },
+          {
+            "id": 16158,
+            "name": "aide_laboratoire"
+          },
+          {
+            "id": 8026,
+            "name": "coursier"
+          },
+          {
+            "id": 8027,
+            "name": "preleveur_interne"
+          },
+          {
+            "id": 15404,
+            "name": "centre_covid"
+          },
+          {
+            "id": 8022,
+            "name": "technicien"
+          }
+        ],
+        "groups": [],
+        "offices": []
+      },
+      "position": 4,
+      "visit": {
+        "pierceable": false,
+        "storageTemperature": false,
+        "allowsResettingSampleCollectionDateTime": false
+      }
+    },
+    {
+      "id": 183,
+      "name": "Tube Streck",
+      "description": "",
+      "category": {
+        "id": 11,
+        "name": "Tubes",
+        "color": "TurquoiseGreen"
+      },
+      "imageUrl": "https://cellar-c2.services.clever-cloud.com/ubi-upload/553/43541/553/43541/medicalSupply/33479_1657115486.png",
+      "availability": "Available",
+      "availableTo": [
+        {
+          "id": 8020,
+          "name": "biologiste"
+        },
+        {
+          "id": 15781,
+          "name": "informaticien"
+        },
+        {
+          "id": 8025,
+          "name": "pharmacie"
+        },
+        {
+          "id": 17289,
+          "name": "pharmacien"
+        },
+        {
+          "id": 8021,
+          "name": "qualiticien"
+        },
+        {
+          "id": 10036,
+          "name": "client"
+        },
+        {
+          "id": 8028,
+          "name": "etablissement"
+        },
+        {
+          "id": 8024,
+          "name": "medecin"
+        },
+        {
+          "id": 8023,
+          "name": "secretaire"
+        },
+        {
+          "id": 8016,
+          "name": "admin"
+        },
+        {
+          "id": 16912,
+          "name": "laboratoire"
+        },
+        {
+          "id": 8030,
+          "name": "pro"
+        },
+        {
+          "id": 8017,
+          "name": "ide"
+        },
+        {
+          "id": 8018,
+          "name": "sage_femme"
+        },
+        {
+          "id": 8019,
+          "name": "ehpad"
+        },
+        {
+          "id": 17666,
+          "name": "gynecologue"
+        },
+        {
+          "id": 16535,
+          "name": "kine"
+        },
+        {
+          "id": 8029,
+          "name": "patient"
+        },
+        {
+          "id": 16158,
+          "name": "aide_laboratoire"
+        },
+        {
+          "id": 8026,
+          "name": "coursier"
+        },
+        {
+          "id": 8027,
+          "name": "preleveur_interne"
+        },
+        {
+          "id": 15404,
+          "name": "centre_covid"
+        },
+        {
+          "id": 8022,
+          "name": "technicien"
+        }
+      ],
+      "atTheDisposalOf": {
+        "profiles": [
+          {
+            "id": 8020,
+            "name": "biologiste"
+          },
+          {
+            "id": 15781,
+            "name": "informaticien"
+          },
+          {
+            "id": 8025,
+            "name": "pharmacie"
+          },
+          {
+            "id": 17289,
+            "name": "pharmacien"
+          },
+          {
+            "id": 8021,
+            "name": "qualiticien"
+          },
+          {
+            "id": 10036,
+            "name": "client"
+          },
+          {
+            "id": 8028,
+            "name": "etablissement"
+          },
+          {
+            "id": 8024,
+            "name": "medecin"
+          },
+          {
+            "id": 8023,
+            "name": "secretaire"
+          },
+          {
+            "id": 8016,
+            "name": "admin"
+          },
+          {
+            "id": 16912,
+            "name": "laboratoire"
+          },
+          {
+            "id": 8030,
+            "name": "pro"
+          },
+          {
+            "id": 8017,
+            "name": "ide"
+          },
+          {
+            "id": 8018,
+            "name": "sage_femme"
+          },
+          {
+            "id": 8019,
+            "name": "ehpad"
+          },
+          {
+            "id": 17666,
+            "name": "gynecologue"
+          },
+          {
+            "id": 16535,
+            "name": "kine"
+          },
+          {
+            "id": 8029,
+            "name": "patient"
+          },
+          {
+            "id": 16158,
+            "name": "aide_laboratoire"
+          },
+          {
+            "id": 8026,
+            "name": "coursier"
+          },
+          {
+            "id": 8027,
+            "name": "preleveur_interne"
+          },
+          {
+            "id": 15404,
+            "name": "centre_covid"
+          },
+          {
+            "id": 8022,
+            "name": "technicien"
+          }
+        ],
+        "groups": [],
+        "offices": []
+      },
+      "position": 5,
+      "visit": {
+        "pierceable": false,
+        "storageTemperature": false,
+        "allowsResettingSampleCollectionDateTime": false
+      }
+    },
+    {
+      "id": 188,
+      "name": "SWAB GM PCR",
+      "description": "",
+      "category": {
+        "id": 11,
+        "name": "Tubes",
+        "color": "TurquoiseGreen"
+      },
+      "imageUrl": "https://cellar-c2.services.clever-cloud.com/ubi-upload/553/43541/553/43541/medicalSupply/50532_1657115589.png",
+      "availability": "Available",
+      "availableTo": [
+        {
+          "id": 8020,
+          "name": "biologiste"
+        },
+        {
+          "id": 15781,
+          "name": "informaticien"
+        },
+        {
+          "id": 8025,
+          "name": "pharmacie"
+        },
+        {
+          "id": 17289,
+          "name": "pharmacien"
+        },
+        {
+          "id": 8021,
+          "name": "qualiticien"
+        },
+        {
+          "id": 10036,
+          "name": "client"
+        },
+        {
+          "id": 8028,
+          "name": "etablissement"
+        },
+        {
+          "id": 8024,
+          "name": "medecin"
+        },
+        {
+          "id": 8023,
+          "name": "secretaire"
+        },
+        {
+          "id": 8016,
+          "name": "admin"
+        },
+        {
+          "id": 16912,
+          "name": "laboratoire"
+        },
+        {
+          "id": 8030,
+          "name": "pro"
+        },
+        {
+          "id": 8017,
+          "name": "ide"
+        },
+        {
+          "id": 8018,
+          "name": "sage_femme"
+        },
+        {
+          "id": 8019,
+          "name": "ehpad"
+        },
+        {
+          "id": 17666,
+          "name": "gynecologue"
+        },
+        {
+          "id": 16535,
+          "name": "kine"
+        },
+        {
+          "id": 8029,
+          "name": "patient"
+        },
+        {
+          "id": 16158,
+          "name": "aide_laboratoire"
+        },
+        {
+          "id": 8026,
+          "name": "coursier"
+        },
+        {
+          "id": 8027,
+          "name": "preleveur_interne"
+        },
+        {
+          "id": 15404,
+          "name": "centre_covid"
+        },
+        {
+          "id": 8022,
+          "name": "technicien"
+        }
+      ],
+      "atTheDisposalOf": {
+        "profiles": [
+          {
+            "id": 8020,
+            "name": "biologiste"
+          },
+          {
+            "id": 15781,
+            "name": "informaticien"
+          },
+          {
+            "id": 8025,
+            "name": "pharmacie"
+          },
+          {
+            "id": 17289,
+            "name": "pharmacien"
+          },
+          {
+            "id": 8021,
+            "name": "qualiticien"
+          },
+          {
+            "id": 10036,
+            "name": "client"
+          },
+          {
+            "id": 8028,
+            "name": "etablissement"
+          },
+          {
+            "id": 8024,
+            "name": "medecin"
+          },
+          {
+            "id": 8023,
+            "name": "secretaire"
+          },
+          {
+            "id": 8016,
+            "name": "admin"
+          },
+          {
+            "id": 16912,
+            "name": "laboratoire"
+          },
+          {
+            "id": 8030,
+            "name": "pro"
+          },
+          {
+            "id": 8017,
+            "name": "ide"
+          },
+          {
+            "id": 8018,
+            "name": "sage_femme"
+          },
+          {
+            "id": 8019,
+            "name": "ehpad"
+          },
+          {
+            "id": 17666,
+            "name": "gynecologue"
+          },
+          {
+            "id": 16535,
+            "name": "kine"
+          },
+          {
+            "id": 8029,
+            "name": "patient"
+          },
+          {
+            "id": 16158,
+            "name": "aide_laboratoire"
+          },
+          {
+            "id": 8026,
+            "name": "coursier"
+          },
+          {
+            "id": 8027,
+            "name": "preleveur_interne"
+          },
+          {
+            "id": 15404,
+            "name": "centre_covid"
+          },
+          {
+            "id": 8022,
+            "name": "technicien"
+          }
+        ],
+        "groups": [],
+        "offices": []
+      },
+      "position": 6,
+      "visit": {
+        "pierceable": false,
+        "storageTemperature": false,
+        "allowsResettingSampleCollectionDateTime": false
+      }
+    },
+    {
+      "id": 189,
+      "name": "Tube Beige",
+      "description": "",
+      "category": {
+        "id": 11,
+        "name": "Tubes",
+        "color": "TurquoiseGreen"
+      },
+      "imageUrl": "https://cellar-c2.services.clever-cloud.com/ubi-upload/553/43541/553/43541/medicalSupply/46894_1657115607.png",
+      "availability": "Available",
+      "availableTo": [
+        {
+          "id": 8020,
+          "name": "biologiste"
+        },
+        {
+          "id": 15781,
+          "name": "informaticien"
+        },
+        {
+          "id": 8025,
+          "name": "pharmacie"
+        },
+        {
+          "id": 17289,
+          "name": "pharmacien"
+        },
+        {
+          "id": 8021,
+          "name": "qualiticien"
+        },
+        {
+          "id": 10036,
+          "name": "client"
+        },
+        {
+          "id": 8028,
+          "name": "etablissement"
+        },
+        {
+          "id": 8024,
+          "name": "medecin"
+        },
+        {
+          "id": 8023,
+          "name": "secretaire"
+        },
+        {
+          "id": 8016,
+          "name": "admin"
+        },
+        {
+          "id": 16912,
+          "name": "laboratoire"
+        },
+        {
+          "id": 8030,
+          "name": "pro"
+        },
+        {
+          "id": 8017,
+          "name": "ide"
+        },
+        {
+          "id": 8018,
+          "name": "sage_femme"
+        },
+        {
+          "id": 8019,
+          "name": "ehpad"
+        },
+        {
+          "id": 17666,
+          "name": "gynecologue"
+        },
+        {
+          "id": 16535,
+          "name": "kine"
+        },
+        {
+          "id": 8029,
+          "name": "patient"
+        },
+        {
+          "id": 16158,
+          "name": "aide_laboratoire"
+        },
+        {
+          "id": 8026,
+          "name": "coursier"
+        },
+        {
+          "id": 8027,
+          "name": "preleveur_interne"
+        },
+        {
+          "id": 15404,
+          "name": "centre_covid"
+        },
+        {
+          "id": 8022,
+          "name": "technicien"
+        }
+      ],
+      "atTheDisposalOf": {
+        "profiles": [
+          {
+            "id": 8020,
+            "name": "biologiste"
+          },
+          {
+            "id": 15781,
+            "name": "informaticien"
+          },
+          {
+            "id": 8025,
+            "name": "pharmacie"
+          },
+          {
+            "id": 17289,
+            "name": "pharmacien"
+          },
+          {
+            "id": 8021,
+            "name": "qualiticien"
+          },
+          {
+            "id": 10036,
+            "name": "client"
+          },
+          {
+            "id": 8028,
+            "name": "etablissement"
+          },
+          {
+            "id": 8024,
+            "name": "medecin"
+          },
+          {
+            "id": 8023,
+            "name": "secretaire"
+          },
+          {
+            "id": 8016,
+            "name": "admin"
+          },
+          {
+            "id": 16912,
+            "name": "laboratoire"
+          },
+          {
+            "id": 8030,
+            "name": "pro"
+          },
+          {
+            "id": 8017,
+            "name": "ide"
+          },
+          {
+            "id": 8018,
+            "name": "sage_femme"
+          },
+          {
+            "id": 8019,
+            "name": "ehpad"
+          },
+          {
+            "id": 17666,
+            "name": "gynecologue"
+          },
+          {
+            "id": 16535,
+            "name": "kine"
+          },
+          {
+            "id": 8029,
+            "name": "patient"
+          },
+          {
+            "id": 16158,
+            "name": "aide_laboratoire"
+          },
+          {
+            "id": 8026,
+            "name": "coursier"
+          },
+          {
+            "id": 8027,
+            "name": "preleveur_interne"
+          },
+          {
+            "id": 15404,
+            "name": "centre_covid"
+          },
+          {
+            "id": 8022,
+            "name": "technicien"
+          }
+        ],
+        "groups": [],
+        "offices": []
+      },
+      "position": 7,
+      "visit": {
+        "pierceable": false,
+        "storageTemperature": false,
+        "allowsResettingSampleCollectionDateTime": false
+      }
+    },
+    {
+      "id": 187,
+      "name": "Kit ECBU",
+      "description": "",
+      "category": {
+        "id": 13,
+        "name": "Contenants",
+        "color": "Peach"
+      },
+      "imageUrl": "https://cellar-c2.services.clever-cloud.com/ubi-upload/553/43541/553/43541/medicalSupply/46831_1657115570.jpg",
+      "availability": "Available",
+      "availableTo": [
+        {
+          "id": 8020,
+          "name": "biologiste"
+        },
+        {
+          "id": 15781,
+          "name": "informaticien"
+        },
+        {
+          "id": 8025,
+          "name": "pharmacie"
+        },
+        {
+          "id": 17289,
+          "name": "pharmacien"
+        },
+        {
+          "id": 8021,
+          "name": "qualiticien"
+        },
+        {
+          "id": 10036,
+          "name": "client"
+        },
+        {
+          "id": 8028,
+          "name": "etablissement"
+        },
+        {
+          "id": 8024,
+          "name": "medecin"
+        },
+        {
+          "id": 8023,
+          "name": "secretaire"
+        },
+        {
+          "id": 8016,
+          "name": "admin"
+        },
+        {
+          "id": 16912,
+          "name": "laboratoire"
+        },
+        {
+          "id": 8030,
+          "name": "pro"
+        },
+        {
+          "id": 8017,
+          "name": "ide"
+        },
+        {
+          "id": 8018,
+          "name": "sage_femme"
+        },
+        {
+          "id": 8019,
+          "name": "ehpad"
+        },
+        {
+          "id": 17666,
+          "name": "gynecologue"
+        },
+        {
+          "id": 16535,
+          "name": "kine"
+        },
+        {
+          "id": 8029,
+          "name": "patient"
+        },
+        {
+          "id": 16158,
+          "name": "aide_laboratoire"
+        },
+        {
+          "id": 8026,
+          "name": "coursier"
+        },
+        {
+          "id": 8027,
+          "name": "preleveur_interne"
+        },
+        {
+          "id": 15404,
+          "name": "centre_covid"
+        },
+        {
+          "id": 8022,
+          "name": "technicien"
+        }
+      ],
+      "atTheDisposalOf": {
+        "profiles": [
+          {
+            "id": 8020,
+            "name": "biologiste"
+          },
+          {
+            "id": 15781,
+            "name": "informaticien"
+          },
+          {
+            "id": 8025,
+            "name": "pharmacie"
+          },
+          {
+            "id": 17289,
+            "name": "pharmacien"
+          },
+          {
+            "id": 8021,
+            "name": "qualiticien"
+          },
+          {
+            "id": 10036,
+            "name": "client"
+          },
+          {
+            "id": 8028,
+            "name": "etablissement"
+          },
+          {
+            "id": 8024,
+            "name": "medecin"
+          },
+          {
+            "id": 8023,
+            "name": "secretaire"
+          },
+          {
+            "id": 8016,
+            "name": "admin"
+          },
+          {
+            "id": 16912,
+            "name": "laboratoire"
+          },
+          {
+            "id": 8030,
+            "name": "pro"
+          },
+          {
+            "id": 8017,
+            "name": "ide"
+          },
+          {
+            "id": 8018,
+            "name": "sage_femme"
+          },
+          {
+            "id": 8019,
+            "name": "ehpad"
+          },
+          {
+            "id": 17666,
+            "name": "gynecologue"
+          },
+          {
+            "id": 16535,
+            "name": "kine"
+          },
+          {
+            "id": 8029,
+            "name": "patient"
+          },
+          {
+            "id": 16158,
+            "name": "aide_laboratoire"
+          },
+          {
+            "id": 8026,
+            "name": "coursier"
+          },
+          {
+            "id": 8027,
+            "name": "preleveur_interne"
+          },
+          {
+            "id": 15404,
+            "name": "centre_covid"
+          },
+          {
+            "id": 8022,
+            "name": "technicien"
+          }
+        ],
+        "groups": [],
+        "offices": []
+      },
+      "position": 8,
+      "visit": {
+        "pierceable": false,
+        "storageTemperature": false,
+        "allowsResettingSampleCollectionDateTime": false
+      }
+    }
+  ],
+  "total": 8
+}

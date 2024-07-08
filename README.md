@@ -1,16 +1,27 @@
-# test_technique_flutter
+# Test technique Flutter
 
-A new Flutter project.
+Ce repo contient un setup minimal d'une application Flutter.
 
-## Getting Started
+## Premier exercice : intégration design
 
-This project is a starting point for a Flutter application.
+Dans cet exercice, vous devrez afficher sur la Home Page une liste de matériel.
 
-A few resources to get you started if this is your first Flutter project:
+La réalisation design est libre mais devra être propre.
+Un screenshot contenant le rendu attendu est disponible ci-dessous pour vous aider dans la réalisation de la page.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Plusieurs widgets et outils sont directement dans le setup du projet pour vous aider.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+N'hésitez pas à explorer le code déjà présent dans l'application.
+
+![home_page.png](home_page.png)
+
+## Deuxième exercice : intégration de la gestion d'un panier
+
+Le but de cet exercice est de réaliser la gestion d'un panier de commande basé sur la liste des matériels que vous aurez réalisée ci-dessus.
+
+L'exercice est libre et la gestion du panier devra uniquement être stockée en mémoire dans un objet.
+
+## Chez Ubilab nous aimons :
+Le code simple, lisible et élégant, le code maintenable, le code testable.
+
+Ayez toujours à l'esprit que c'est principalement ces critères que nous jugerons.
